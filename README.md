@@ -2,15 +2,15 @@
 A simple list of things I need to read.
 In no particular order now, will be put into reading hierarchy
 
- 1. Robert Love, Linux Kernel Development
- 2. ZFS on disk format specification
- 3. Steve Pate, Unix filesystems evolution design and implementation
- 4. Kernighan and Ritchie, ANSI C
- 5. James W. Grenning, Test-Driven development for embedded C
- 6. Erik Seligman, Math Mutation Classics
- 7. Daniel Kusswurm, Modern X86 assembly language programming
- 8. Noel Kalicharan, Advanced topics in C
- 9. J. Corbet, A. Rubini, G. Kroah-Hartman, Linux Device Drivers
+1. Robert Love, Linux Kernel Development
+2. ZFS on disk format specification
+3. Steve Pate, Unix filesystems evolution design and implementation
+4. Kernighan and Ritchie, ANSI C
+5. James W. Grenning, Test-Driven development for embedded C
+6. Erik Seligman, Math Mutation Classics
+7. Daniel Kusswurm, Modern X86 assembly language programming
+8. Noel Kalicharan, Advanced topics in C
+9. J. Corbet, A. Rubini, G. Kroah-Hartman, Linux Device Drivers
 10. Debian packaging tutorial
 11. John L. Hufferd, iSCSI. The universal storage connection
 12. Karan Singh, Ceph cookbook
@@ -30,3 +30,6 @@ In no particular order now, will be put into reading hierarchy
 26. M. K. McKusick, G. V. Neville-Neil, R. N. M. Watson, The design and implementation of the FreeBSD operating system
 27. M. McDonnel, Pro VIM
 28. H. Stern, M. Eisler, R. Labiaga, Managing NFS and NIS
+29. https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
+30. https://www.bottomupcs.com/
+31. https://littleosbook.github.io/
